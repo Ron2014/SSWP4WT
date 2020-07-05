@@ -12,7 +12,7 @@ Windows Terminal 墙纸实现幻灯片播放
 
                 "backgroundImage" : "%GITHUB_PATH%\\Pictures\\Gif\\GhostintheShell.gif",
                 "backgroundImageOpacity" : 0.3,
-                "backgroundImageAlignment" : "bottomRight",
+                "backgroundImageAlignment" : "right",
                 "backgroundImageStretchMode" : "none"
 ```
 
@@ -32,7 +32,7 @@ Windows Terminal 墙纸实现幻灯片播放
 
 只用关注 backgroundImage 这一项即可.
 
-backgroundImage 支持环境变量读取.
+backgroundImage 可以识别环境变量.
 
 但是我们又不能把所有 panel 的设置都指向一个环境变量.
 
