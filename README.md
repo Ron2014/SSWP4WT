@@ -1,3 +1,9 @@
+## SSWP4WT
+
+Slideshow wallpaper for Windows Terminal
+
+Windows Terminal 墙纸实现幻灯片播放
+
 ## 想做个动态壁纸
 
 对于 Windows Terminal (Preview) 的配置有背景图设置:
